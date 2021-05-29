@@ -1,3 +1,3 @@
 module github.com/ksupdev/updev-go-ex-scheduler-service
 
-go 1.15
+go 1.16
